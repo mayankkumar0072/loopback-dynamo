@@ -1,0 +1,7 @@
+{
+  "name": "dynamo",
+  "connector": "loopback-connector-dynamodb",
+  "credentials":"env",
+  "debug":true,
+  "region": "us-west-2"
+}
